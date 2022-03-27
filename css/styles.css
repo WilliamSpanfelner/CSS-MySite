@@ -1,6 +1,7 @@
 /*************************** Element selectors ****************************/
 h1 {
     margin-top: 0;
+    width: 10%;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
 /*************************** Class selectors ****************************/
 .top-container {
     background-color: #e4f9f5;
+    text-align: center;
 }
 
 .middle-container {
