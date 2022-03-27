@@ -18,10 +18,15 @@ body {
     width: 200px;
     background-color: red;
 }
+
 .bottom-container {
     height: 200px;
     width: 200px;
     background-color: blue;
+}
+
+.bottom-cloud {
+    position: absolute;
 }
 
 .pro {
