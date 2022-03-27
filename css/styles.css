@@ -11,6 +11,8 @@ body {
 .top-container {
     background-color: #e4f9f5;
     text-align: center;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middle-container {
@@ -27,6 +29,14 @@ body {
 
 .bottom-cloud {
     position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
 }
 
 .pro {
