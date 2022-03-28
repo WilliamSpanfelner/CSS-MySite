@@ -55,8 +55,14 @@ table {
     bottom: 300px;
 }
 
+.hobby {
+    border-radius: 50%;
+    height: 5rem;
+}
+
 .hobbies {
     margin: 0 auto;
+    width: 50%;
 }
 
 .iphone {
