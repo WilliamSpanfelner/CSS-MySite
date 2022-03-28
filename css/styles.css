@@ -17,6 +17,10 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+table {
+    margin: 0 auto;
+}
+
 /*************************** Class selectors ****************************/
 .top-container {
     background-color: #e4f9f5;
@@ -37,6 +41,14 @@ body {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.hobbies {
+    margin: 0 auto;
+}
+
+.iphone {
+    height: 100px;
 }
 
 .top-cloud {
