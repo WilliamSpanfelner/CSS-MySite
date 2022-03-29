@@ -1,4 +1,26 @@
 /*************************** Element selectors ****************************/
+a:link {
+    text-decoration: none;
+}
+a:visited .hobby-row{
+    text-decoration: none;
+}
+a:hover .hobby-row{
+    text-decoration: underline;
+}
+a:active .hobby-row{
+    text-decoration: underline;
+}
+
+a, h3 {
+    color: #11999e
+}
+
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
 h1 {
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
@@ -18,15 +40,6 @@ h1, h2 {
 
 h3 {
     font-family: 'Montserrat', sans-serif;
-}
-
-a, h3 {
-    color: #11999e
-}
-
-body {
-    margin: 0;
-    font-family: 'Merriweather', serif;
 }
 
 table {
