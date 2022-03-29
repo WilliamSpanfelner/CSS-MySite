@@ -57,17 +57,20 @@ table {
 
 .hobby {
     border-radius: 50%;
-    height: 5rem;
+    width: 25%;
+    float: left;
 }
 
-.hobbies {
-    margin: 0 auto;
+.hobby-row {
+    margin: 100px auto;
     width: 50%;
     text-align: left;
+    line-height: 2;
 }
 
-.iphone {
-    height: 100px;
+.skill-row {
+    margin: 100px auto;
+    width: 60%;
 }
 
 .top-cloud {
