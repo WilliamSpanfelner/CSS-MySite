@@ -76,11 +76,19 @@ table {
     float: left;
 }
 
+.hobby-text {
+    clear: left
+}
+
 .hobby2 {
     margin-left: 30px;
     border-radius: 50%;
     width: 25%;
     float: right;
+}
+
+.hobby2-text {
+    clear: right
 }
 
 .hobby-row {
